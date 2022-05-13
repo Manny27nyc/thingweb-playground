@@ -22,7 +22,7 @@
     "prepare": "npm run bundle"
   },
   "dependencies": {
-    "@asyncapi/parser": "^1.2.0",
+    "@asyncapi/parser": "^1.14.1",
     "@thing-description-playground/defaults": "^1.2.0",
     "json-to-pretty-yaml": "^1.2.2"
   },
