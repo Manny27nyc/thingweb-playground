@@ -22,7 +22,7 @@
     "prepare": "npm run bundle"
   },
   "dependencies": {
-    "json-schema-faker": "^0.5.0-rcv.29",
+    "json-schema-faker": "^0.5.3",
     "json-to-pretty-yaml": "^1.2.2",
     "swagger-parser": "^10.0.2"
   },
